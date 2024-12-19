@@ -19,7 +19,7 @@ Hello! I'm Geovana, an aspiring developer transitioning into the world of techno
 
 **3. Advanced Goals**
 
-Web Development: Creating interactive websites using HTML, CSS, JavaScript, and integrating backend APIs.
+Web Development: Creating interactive websites using HTML, CSS, Java, and integrating backend APIs.
 
 **Machine Learning Exploration:** Experimenting with data analysis and predictive modeling.
 
