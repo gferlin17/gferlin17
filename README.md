@@ -1,7 +1,7 @@
 Hello, I’m Geovana 👋  
 
 I’m an aspiring developer with a background in Public Relations and Branding, currently studying Systems Analysis and Development.  
-I’m naturally curious, detail-oriented, and passionate about learning — especially when it comes to technology.
+I’m naturally curious, detail-oriented, and passionate about learning - especially when it comes to technology.
 
 At the moment, I’m focusing on **JavaScript**, improving my programming foundations while navigating the classic dilemma: **backend or frontend?**  
 Next stop: **Java** ☕️
