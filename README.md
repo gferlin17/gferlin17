@@ -1,51 +1,20 @@
+Hello, I’m Geovana 👋  
 
+I’m an aspiring developer with a background in Public Relations and Branding, currently studying Systems Analysis and Development.  
+I’m naturally curious, detail-oriented, and passionate about learning — especially when it comes to technology.
 
-Hello! I'm Geovana, an aspiring developer transitioning into the world of technology. This portfolio is a reflection of my journey as I dive into programming and software development. Here, you'll find projects, ideas, and code that showcase my growth and passion for tech.
+At the moment, I’m focusing on **JavaScript**, improving my programming foundations while navigating the classic dilemma: **backend or frontend?**  
+Next stop: **Java** ☕️
 
-**About Me**
+Here you’ll find projects that reflect my learning process, experiments, and growth as a developer.
 
-**🌟 Background:** I have a background in Public Relations and Branding and am currently pursuing a degree in Systems Analysis and Development.
+**Technologies:**  
+- JavaScript, C#, HTML, CSS  
+- .NET / ASP.NET  
+- Git & GitHub  
 
-🖥️ **Learning Journey:** My primary focus is on mastering C# and building strong foundations in programming logic and software development.
+📫 Contact:  
+- gferlin36@gmail.com  
+- linkedin.com/in/geovana-ferlin-59a585143  
 
-🎯 **Goals:** I aim to create innovative projects, solve complex problems, and contribute to the tech community.
-
-🌱 **Interests:** When I’m not coding, I enjoy reading, exploring new hobbies, and spending time with my pets.
-
-**Projects**
-
-**Here are some of the projects I’m working on:**
-
-
-**3. Advanced Goals**
-
-Web Development: Creating interactive websites using HTML, CSS, Java, and integrating backend APIs.
-
-**Machine Learning Exploration:** Experimenting with data analysis and predictive modeling.
-
-**Skills**
-
-Languages & Tools
-
-Programming Languages: C#, HTML, CSS, Java
-
-Frameworks & Libraries: .NET Framework, ASP.NET
-
-Tools: Visual Studio, Git, GitHub
-
-**Currently Learning**
-
-Backend development with ASP.NET
-
-Version control with Git and GitHub workflows
-
-Building projects to sharpen my coding skills
-
-**How to Reach Me**
-
-Email: gferlin36@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/geovana-ferlin-59a585143/
-
-
-Feel free to explore my repositories and leave feedback or suggestions. I’m always open to learning and collaborating!
+**Fun fact:** once I start learning something new, I usually fall into a deep (and very productive) curiosity rabbit hole.
