@@ -14,7 +14,6 @@ Here you’ll find projects that reflect my learning process, experiments, and g
 - Git & GitHub  
 
 📫 Contact:  
-- gferlin36@gmail.com  
-- linkedin.com/in/geovana-ferlin-59a585143  
+- gferlin36@gmail.com
 
 **Fun fact:** once I start learning something new, I usually fall into a deep (and very productive) curiosity rabbit hole.
