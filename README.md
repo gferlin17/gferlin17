@@ -4,7 +4,6 @@ I’m an aspiring developer with a background in Public Relations and Branding, 
 I’m naturally curious, detail-oriented, and passionate about learning - especially when it comes to technology.
 
 At the moment, I’m focusing on **JavaScript**, improving my programming foundations while navigating the classic dilemma: **backend or frontend?**  
-Next stop: **Java** ☕️
 
 Here you’ll find projects that reflect my learning process, experiments, and growth as a developer.
 
